@@ -12,12 +12,18 @@ redirect_from:
 Education
 ======
 * B.S in Computer Science with a concentration in Artificial Intelligence from Stanford university.
-Work experience
+* Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Lockheed Martin Space
+  * Software engineering summer intern
+  * June 2021 to September 2022
+    * Worked on Aerospace Simulation Platform
+    * Designed User Interfaces for JavaScript-based supply-chain simulation ,Json Parsers, server-side applications endpoints using GET and POST websockets, written with Java, JavaScript, xml, and html
+    * Created and maintained web services using Kubernetes and Docker 
+    * Implemented and maintained unit testing and style guides for platform per industry standards.
+    * Received Lockheed Martin PEER Award, Best of Release BRAVO (Our team was selected among the 10+ in our division as most impactful in our release, which is ~3 sprints). Reward received both years of internship
+    * Took part in a Deep Learning AI Competition to classify clothing images
+
 
 * Fall 2015: Research Assistant
   * GitHub University
