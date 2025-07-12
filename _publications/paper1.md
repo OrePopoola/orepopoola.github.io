@@ -1,11 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Jonah & the whale"
 collection: publications
 category: manuscripts
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This emotional paper is part prose, part philosophy'
 date: 2023-7-01
 
 paperurl: 'orepopoola.github.io/files/jonah___the_whale-2.pdf'
 ---
-Test12
+orepopoola.github.io/files
+/artorganization.pdf
