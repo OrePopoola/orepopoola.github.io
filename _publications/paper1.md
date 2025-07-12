@@ -1,6 +1,7 @@
 ---
 title: "Jonah & the whale"
 category: manuscripts
+permalink: /publication/paper1
 excerpt: 'This emotional paper is part prose, part philosophy
 files
 /jonah___the_whale-2.pdf'
