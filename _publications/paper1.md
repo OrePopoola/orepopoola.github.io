@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 
 excerpt: 'This emotional paper is part prose, part philosophy'
-
+permalink: '/publication/paper2'
 paperurl: 'http://orepopoola.github.io/files/jonah___the_whale-2.pdf'
 ---
 Downloadable here:
