@@ -9,4 +9,4 @@ paperurl: 'http://orepopoola.github.io/files/jonah___the_whale-2.pdf'
 ---
 Downloadable here:
 'http://orepopoola.github.io/files/jonah___the_whale-2.pdf'
-I wrote this piece after going through a breakup and wanting answers for a lot of my problems. I hope you enjoy
+I wrote this piece after going through a breakup and wanting answers for a lot of my problems. I hope you enjoy!
